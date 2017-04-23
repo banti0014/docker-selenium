@@ -1,4 +1,8 @@
-FROM selenium/node-chrome:2.48.2
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# NOTE: DO *NOT* EDIT THIS FILE.  IT IS GENERATED.
+# PLEASE UPDATE Dockerfile.txt INSTEAD OF THIS FILE
+# !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+FROM selenium/node-chrome:3.4.0-actinium
 MAINTAINER Selenium <selenium-developers@googlegroups.com>
 
 USER root
